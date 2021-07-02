@@ -16,6 +16,6 @@ run the command : python app.py
 ### Deep learning Model
 training a convolutional neural network with input of shape (m,28,28,1) for m image and with output of a softmax function.
 ### webapp backend
-get the image through download or URL, reshape it to a shape compatible with the input shape of the model and present it in the app.
+get the image through upload or URL, reshape it to a shape compatible with the input shape of the model and present it in the app.
 
 
