@@ -7,4 +7,11 @@ this project consists on the Flask web-app that gets and image either uploaded o
 * HTML
 - docker
 ## Launch
+#On localMachine
+run the command : python app.py
+#On docker
+docker build -t mnist:latest .
+docker run -t mnist 
+## Table of Contents
+
 
