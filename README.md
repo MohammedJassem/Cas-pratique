@@ -13,5 +13,6 @@ run the command : python app.py
 - docker build -t mnist:latest .
 - docker run -t mnist 
 ## Table of Contents
+### Deep learning Model
 
 
