@@ -12,7 +12,10 @@ run the command : python app.py
 ### On docker
 - docker build -t mnist:latest .
 - docker run -t mnist 
-## Table of Contents
+## Project parts
 ### Deep learning Model
+training a convolutional neural network with input of shape (m,28,28,1) for m image and with output of a softmax function 
+### webapp backend
+
 
 
